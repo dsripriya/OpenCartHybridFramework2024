@@ -1,0 +1,303 @@
+15:29:25.971 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:29:26.997 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:29:28.489 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:29:28.506 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:29:32.584 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:29:32.806 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+15:35:21.268 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:35:22.657 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:35:24.157 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:35:24.165 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:35:26.491 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:35:26.612 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+15:37:58.897 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:38:00.000 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:38:02.587 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:38:02.603 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:38:06.226 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:39:49.506 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:39:51.091 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:39:52.101 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:39:52.131 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:39:54.665 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:44:39.703 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:44:41.263 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:44:42.938 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:44:42.954 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:44:46.481 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:44:46.665 [main] ERROR testCases.TC001_AccountRegistrationTest - Test FAILED
+15:44:46.666 [main] DEBUG testCases.TC001_AccountRegistrationTest - Debug logs....
+15:50:34.652 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+15:50:35.732 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+15:50:36.995 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+15:50:37.013 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+15:50:39.705 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+15:50:39.914 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+16:16:28.066 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:16:28.840 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+16:16:30.798 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+16:16:30.810 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+16:16:35.317 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+16:16:35.476 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+16:22:18.222 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:22:19.140 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+16:22:20.641 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+16:22:20.656 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+16:22:23.692 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+16:22:23.871 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+16:29:52.717 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:29:53.775 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+16:29:56.204 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+16:29:56.208 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+16:30:00.592 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+16:30:01.152 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+16:38:04.244 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:51:24.954 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:51:28.885 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+16:51:30.827 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+16:51:30.838 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+16:51:34.370 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+16:51:34.549 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+13:28:33.709 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+13:28:38.733 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+16:34:47.431 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+16:34:55.826 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+16:36:47.588 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+16:36:48.311 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+16:37:35.316 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+16:37:35.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+16:38:25.340 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+16:38:26.051 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+16:50:17.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+16:50:18.023 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:07:26.961 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:07:28.946 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:10:19.154 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:10:20.162 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:10:37.341 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:10:42.612 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+17:11:09.638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:11:10.673 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:11:32.691 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:11:37.509 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+17:13:11.015 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:13:11.867 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:13:29.425 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:13:34.222 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+17:14:06.670 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:14:07.865 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:14:27.048 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+17:14:28.569 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+17:14:30.177 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+17:14:30.212 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+17:14:33.810 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+17:14:34.066 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:47:21.397 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:47:24.167 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:48:32.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:48:35.826 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:48:38.130 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:48:38.271 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:48:44.259 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:48:45.146 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:49:11.031 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:49:15.786 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+19:15:44.505 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+19:15:45.271 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+19:17:03.665 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+19:17:07.143 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+19:18:15.589 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+19:18:16.319 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+19:18:40.041 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+19:18:40.329 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+19:18:42.033 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+19:18:42.061 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+19:18:45.079 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+19:18:45.187 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+07:32:05.311 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+07:32:06.897 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+07:33:01.280 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+07:33:04.880 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+07:33:06.504 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+07:33:06.573 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+07:33:10.384 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+07:33:10.657 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+07:33:27.957 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+07:33:28.941 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+07:34:02.486 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+07:34:07.331 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+07:34:40.239 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+07:34:40.933 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+07:34:55.380 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+07:34:56.231 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+07:34:57.709 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+07:34:57.724 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+07:35:00.798 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+07:35:00.980 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+07:35:17.957 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+07:35:21.438 [main] INFO  testCases.TC002_LoginTest - ****************Completed TC002_LoginTest***************
+18:15:24.056 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:15:26.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:16:00.491 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:16:02.824 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:16:04.774 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:16:04.796 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:16:08.567 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:16:08.836 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:16:27.807 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+12:32:42.124 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+12:32:43.677 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+12:33:13.178 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+12:33:14.795 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+12:33:16.001 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+12:33:16.026 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+12:33:19.564 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+12:33:19.745 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+12:33:37.953 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:27:40.710 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:27:41.751 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:31:29.716 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:31:30.669 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:31:56.397 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:31:57.936 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:32:06.125 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:32:06.152 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:32:09.455 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:32:09.616 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:32:41.083 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:33:16.993 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:33:18.333 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:33:20.104 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:33:20.136 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:33:23.501 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:33:23.653 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:33:54.899 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:38:22.965 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\test-output\MasterSuite_testng.xml"
+18:38:23.920 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\test-output\MasterSuite_testng.xml
+
+18:39:39.299 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:39:40.169 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:40:07.621 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:40:07.900 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:40:16.928 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:40:16.947 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:40:22.886 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:40:23.051 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:40:40.969 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:42:25.532 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+18:42:26.418 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+18:42:48.786 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:42:49.048 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:42:51.345 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:42:51.392 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:42:55.112 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:42:55.271 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:43:13.675 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:49:10.074 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+18:49:11.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+18:49:30.944 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+18:49:31.291 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+18:49:33.072 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+18:49:33.099 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+18:49:36.011 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+18:49:36.171 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+18:49:54.537 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+18:54:09.060 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\test-output\testng-failed.xml"
+18:54:09.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\test-output\testng-failed.xml
+
+18:54:31.296 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:54:05.796 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:54:07.296 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:54:30.946 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+17:54:33.209 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+17:54:35.387 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+17:54:35.406 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+17:54:39.948 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+17:54:40.102 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+17:55:04.199 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:56:39.674 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml"
+17:56:40.563 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\MasterSuite_testng.xml
+
+17:57:03.149 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+17:57:03.534 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+17:57:05.045 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+17:57:05.075 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+17:57:08.347 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+17:57:08.502 [main] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+17:57:26.963 [main] INFO  testCases.TC002_LoginTest - ****************Starting TC002_LoginTest***
+17:59:20.675 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\CrossBrowserAndParallelTesting.xml"
+17:59:21.715 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\CrossBrowserAndParallelTesting.xml
+
+17:59:22.883 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+17:59:40.421 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+17:59:40.865 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on clickMyAccount ********
+17:59:42.996 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Clicked on  clickRegister ********
+17:59:43.007 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Providing Customer Details ********
+17:59:46.442 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******Validated Expected Message ********
+17:59:46.579 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *******FINISHED - TC001_AccountRegistrationTest ********
+17:40:58.225 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml"
+17:41:01.580 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\Grouping.xml
+
+16:21:56.712 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\grid-docker.xml"
+16:21:58.773 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\grid-docker.xml
+
+16:22:00.413 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********
+16:22:59.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\grid-docker.xml"
+16:22:59.982 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024\grid-docker.xml
+
+16:23:00.537 [main] INFO  testCases.TC001_AccountRegistrationTest - *******STARTING - TC001_AccountRegistrationTest ********

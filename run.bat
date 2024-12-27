@@ -1,0 +1,2 @@
+cd D:\Eclipse4.30vProjects\Projects\Java21AutomationSeries\OpenCartHybridFramework2024
+mvn clean test
